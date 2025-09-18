@@ -4,15 +4,15 @@ Sure! Below is the **full, professional `README.md`** code. You can copy and pas
 ![Chat Screenshot](static/src/Capture.PNG)
 ## 📸 Home Preview
 
-![Home Screenshot](static/src/Capture2.PNG)
+![Home Screenshot](static/src/Capture2.png)
 ---
 ## 📸 Employee conversation Preview
 
-![Staff  Screenshot](static/src/Capture3.PNG)
+![Staff  Screenshot](static/src/Capture3.png)
 
 ## 📸 Add employee Preview
 
-![Dashboard Screenshot](static/src/Capture4.PNG)
+![Dashboard Screenshot](static/src/Capture4.png)
 ```markdown
 # Urban Engine AI Assistant: Company Manager
 
