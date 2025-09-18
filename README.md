@@ -1,10 +1,18 @@
 Sure! Below is the **full, professional `README.md`** code. You can copy and paste this directly into your GitHub repository’s `README.md` file.
 ## 📸 Chat Preview
 
-![Dashboard Screenshot](static/src/Capture.PNG)
+![Chat Screenshot](static/src/Capture.PNG)
+## 📸 Home Preview
 
+![Home Screenshot](static/src/Capture2.PNG)
 ---
+## 📸 Employee conversation Preview
 
+![Staff  Screenshot](static/src/Capture3.PNG)
+
+## 📸 Add employee Preview
+
+![Dashboard Screenshot](static/src/Capture4.PNG)
 ```markdown
 # Urban Engine AI Assistant: Company Manager
 
