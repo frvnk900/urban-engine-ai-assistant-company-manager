@@ -1,4 +1,7 @@
 Sure! Below is the **full, professional `README.md`** code. You can copy and paste this directly into your GitHub repository’s `README.md` file.
+## 📸 Chat Preview
+
+![Dashboard Screenshot](static/src/Capture.PNG)
 
 ---
 
